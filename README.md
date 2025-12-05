@@ -32,6 +32,8 @@ The enable Dependabot on your fork:
 - In the left hand side navigation, click **Dependency Graph**
 - Click on the **Dependabot** tab
 - Click on the **Enable Dependabot** button
+
+Running commit update to trigger Dependabot Review Workflow
 - After a moment, refresh the page and you should see Dependabot hard at work
 
 <img width="917" alt="screenshot showing Dependabot working on Version Updates" src="https://github.com/dependabot/demo/assets/886768/4adf5727-255a-4ae1-97f7-70e94dc1134b">
